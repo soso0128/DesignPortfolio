@@ -1262,6 +1262,12 @@ header.title-row .tool p {
 	font-weight: 500;
 }
 
+.tool p {
+  font-size: 16px;
+  color: red;
+  text-align: right;
+  margin: 0;
+}
 
 
 /* Table */
